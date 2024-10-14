@@ -1,0 +1,27 @@
+#card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    background-color: dodgerblue;
+}
+
+
+#cardItem{
+    box-sizing: border-box;
+    padding: 5px;
+    background-color: gray;
+    box-shadow: 9px 15px 20px;
+}
+
+#title{
+    
+    color: black;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#status{
+    font-size: 15px;
+    color: green;
+}
