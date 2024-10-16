@@ -13,6 +13,8 @@
     background-color: gray;
     box-shadow: 9px 15px 20px;
     transition: all 0.3s ease;
+    text-align: center;
+    font-family: cursive;
 }
 #cardItem:hover{
     transform: scale(
